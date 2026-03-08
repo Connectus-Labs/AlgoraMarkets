@@ -1,2 +1,2 @@
-# move-contracts
-A move code for the Agent Gaurd protocol for the sui ecosystem.
+# AlgoraMarketz
+A Technical description of AlgoraMarkets
